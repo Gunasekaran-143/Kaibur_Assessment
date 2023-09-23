@@ -27,8 +27,15 @@ Step 7: Initialize different classifiers like Random Forest, Naive Bayes,SVM,Log
 ![image](https://github.com/Gunasekaran-143/Kaibur_Assessment/assets/134137559/a795af85-4851-4568-9489-c9ee47a18675)
 
 Step 8: Model Evaluation
+![image](https://github.com/Gunasekaran-143/Kaibur_Assessment/assets/134137559/28a78bc0-a8df-40b4-b7d9-1da99e1d649d)
+
+![image](https://github.com/Gunasekaran-143/Kaibur_Assessment/assets/134137559/1ea4adfd-1049-4456-8734-a7bb70b1844c)
+
+
 Step 9: Example prediction on new data
 ![image](https://github.com/Gunasekaran-143/Kaibur_Assessment/assets/134137559/0ac34b56-5ff0-4946-8fe1-ff2f04ad9dc0)
+![image](https://github.com/Gunasekaran-143/Kaibur_Assessment/assets/134137559/4ec3b894-38f7-4cbf-820f-7b30e6f83aea)
+
 
 
 **_#question 1_**
